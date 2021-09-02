@@ -4,5 +4,3 @@
 
 В исследовании использованы следующие библиотеки: pandas, numpy, plotly, scipy, stats, seaborn, matplotlib, sklearn.
 
-Ключевые слова проекта:
-KMeans, Machine Learning, дендрограмма, RandomForestClassifier,LogisticRegression.
