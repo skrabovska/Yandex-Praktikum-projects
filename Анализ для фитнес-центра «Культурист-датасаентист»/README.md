@@ -4,4 +4,4 @@
 
 • Библиотеки: pandas, numpy, plotly, scipy, stats, seaborn, matplotlib, sklearn.
 
-### Статус проекта: завершён.
+## Статус проекта: завершён.
